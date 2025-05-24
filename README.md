@@ -24,7 +24,6 @@ Aplikasi berbasis web untuk manajemen RS seperti pendaftaran pasien, input data 
 - Buat database kosong dengan nama: myklinik
 - Copy env.example dan rename dengan nama .env
 - ketik terminal: php artisan key:generate
-- ketik terminal: php artisan migrate:fresh --seed
 - ketik terminal: php artisan serve
 
 ## Info Login:
