@@ -39,3 +39,43 @@ Aplikasi berbasis web untuk manajemen RS seperti pendaftaran pasien, input data 
 #### Bag.Farmasi:
     - Username: apotik@gmail.com
     - Password: 1234
+
+## Gallery
+
+#### Gambar:Halaman Login
+<br />
+<img src="https://github.com/larasatizka/mysimrs/blob/main/Login.png?raw=true" width="1200px">
+<br />
+
+#### Gambar:Halaman Pendaftaran
+<br />
+<img src="https://github.com/larasatizka/mysimrs/blob/main/Pendaftaran.png?raw=true" width="1200px">
+<br />
+
+#### Gambar:Halaman Perawat
+<br />
+<img src="https://github.com/larasatizka/mysimrs/blob/main/Perawat.png?raw=true" width="1200px">
+<br />
+
+#### Gambar:Halaman Dokter
+<br />
+<img src="https://github.com/larasatizka/mysimrs/blob/main/Dokter.png?raw=true" width="1200px">
+<br />
+
+#### Gambar:Halaman Input Obat
+<br />
+<img src="https://github.com/larasatizka/mysimrs/blob/main/Input Obat.png?raw=true" width="1200px">
+<br />
+
+#### Gambar:Halaman Input Resep
+<br />
+<img src="https://github.com/larasatizka/mysimrs/blob/main/Input Resep.png?raw=true" width="1200px">
+<br />
+
+#### Gambar:Halaman Riwayat Pemeriksaan
+<br />
+<img src="https://github.com/larasatizka/mysimrs/blob/main/Riwayat 1.png?raw=true" width="1200px">
+<br />
+<br />
+<img src="https://github.com/larasatizka/mysimrs/blob/main/Riwayat 2.png?raw=true" width="1200px">
+<br />
