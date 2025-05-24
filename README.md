@@ -22,6 +22,7 @@ Aplikasi berbasis web untuk manajemen RS seperti pendaftaran pasien, input data 
 - Clone Repository
 - Buka Terminal dan ketik composer install
 - Buat database kosong dengan nama: myklinik
+- Import database myklinik.sql
 - Copy env.example dan rename dengan nama .env
 - ketik terminal: php artisan key:generate
 - ketik terminal: php artisan serve
